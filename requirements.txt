@@ -1,27 +1,24 @@
-# --- Core Framework & Orchestration ---
 langchain
 langchain-community
 langchain-core
 
-# --- Gemini API Integration ---
 langchain-google-genai
 google-genai
 
-# --- Vector Database ---
 chromadb
 
-# --- Document Loaders & Parsers ---
 pypdf
 python-docx
 unstructured
 
-# --- UI & Deployment ---
 streamlit
 
-# --- Environment & Configuration ---
 python-dotenv
 
-# --- Utilities & Data Handling ---
 pandas
 numpy
 tiktoken
+
+streamlit
+langchain-huggingface
+sentence-transformers
